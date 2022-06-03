@@ -14,7 +14,7 @@
 # pip2 install requests
 
 # pip2 install mechanize
-
+# pip install bs4
 # git clone https://github.com/Ajijul123aa/Projibon
 # cd Projibon
 # python Projibon.py
